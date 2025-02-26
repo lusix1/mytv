@@ -1,12 +1,28 @@
 
 4K频道,#genre#
-纯享4K,http://max.asrm1392518.cf:50001/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
-纯享4K,https://itv.mininas.cc/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
-纯享4K,http://www.xiaoya.bond:50001/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
-纯享4K,http://kr.s5752.com:50001/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
-纯享4K,http://itv.scy.ink/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
-纯享4K,http://1panel.137390740.xyz:5000/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
-纯享4K,http://xr.lmahon.click:50001/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
+纯享4K,http://y.wuenci.wang:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://api.wuenci.com:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://app.baiyels.com:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,https://itv.mininas.cc/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://jk.1jia.xyz:51001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,https://itv.fele.top:443/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://max.asrm1392518.cf:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://262949.xyz:8040/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://frp.goodtimektv.top:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://kr.s5752.com:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://v0320.yangjian.net:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://itv.uat.news/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://mydg.iptv.xin:8080/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://moro521.top:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://itv.scy.ink/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://itv.zhanghao.org.cn/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://v.tik686.com:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://www.7891136.xyz:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://xr.lmahon.click:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://itv.ysws.cfasxxg.cn/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://fenwe078.gq:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://alist.137390740.xyz:5000/TVOD/1000000004000011651/ystenlive/index.m3u8
+纯享4K,http://www.aadii.top:5000/TVOD/1000000004000011651/ystenlive/index.m3u8
 CCTV16 奥林匹克4K,http://max.asrm1392518.cf:50001/TVOD/5000000008000023254/bestzb/index.m3u8?ace
 SiTV欢笑剧场4K,http://max.asrm1392518.cf:50001/TVOD/5000000007000010001/bestzb/index.m3u8?ace
 华数4K,http://max.asrm1392518.cf:50001/TVOD/6000000003000004748/wasusyt/index.m3u8?ace
